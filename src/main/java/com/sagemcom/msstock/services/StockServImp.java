@@ -1,7 +1,7 @@
 package com.sagemcom.msstock.services;
 
+import com.sagemcom.generic.ServiceGeneric;
 import com.sagemcom.msstock.entities.Stock;
-import com.sagemcom.msstock.generic.ServiceGeneric;
 import com.sagemcom.msstock.repositories.StockRepo;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

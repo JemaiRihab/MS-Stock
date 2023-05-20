@@ -1,7 +1,7 @@
 package com.sagemcom.msstock.controllers;
 
+import com.sagemcom.generic.RestControllerGeneric;
 import com.sagemcom.msstock.entities.Stock;
-import com.sagemcom.msstock.generic.RestControllerGeneric;
 import com.sagemcom.msstock.services.StockServ;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.RequestMapping;
